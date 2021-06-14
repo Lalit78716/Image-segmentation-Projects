@@ -33,6 +33,10 @@ Dectecting the Nucleus cells using U-NET model
 <img src="https://github.com/Lalit78716/Image-segmentation-Projects/blob/main/Nucleus%20Detection/Screenshots/Screenshot%20(493).png"/>
 </p>
 
+<p align="left">
+<img src="https://github.com/Lalit78716/Image-segmentation-Projects/blob/main/Nucleus%20Detection/Screenshots/Screenshot%20(495).png"/>
+</p>
+
 ## Dependencies
 * Tensorflow
 * Scikit-image
