@@ -11,3 +11,10 @@ Identifying the cells’ nuclei is the starting point for most analyses because 
 that programs each cell. Identifying nuclei allows researchers to identify each individual cell in a sample, and by measuring how cells react to various treatments, the
 researcher can understand the underlying biological processes at work.
 
+## Finding the Nucleus help to...
+* Locate cells in varied conditions to enable faster cures
+* Free biologist to focus on solutions
+* Improve throughput for research and insight
+* reduce time-to-market for new drugs- currently 10 years
+* increase number of compounds for experiments
+* improve health and increase quility of life
