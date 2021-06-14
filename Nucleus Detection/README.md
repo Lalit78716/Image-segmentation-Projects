@@ -30,7 +30,7 @@ Dectecting the Nucleus cells using U-NET model
 
 ## Results :-
 <p align="left">
-<img src="https://github.com/Lalit78716/Image-segmentation-Projects/blob/main/Nucleus%20Detection/Screenshots/Screenshot%20(493).png" width="200" height="200" border="10"/>
+<img src="https://github.com/Lalit78716/Image-segmentation-Projects/blob/main/Nucleus%20Detection/Screenshots/Screenshot%20(493).png"/>
 </p>
 
 ## Dependencies
