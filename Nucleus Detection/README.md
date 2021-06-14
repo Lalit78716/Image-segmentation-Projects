@@ -37,8 +37,6 @@ Dectecting the Nucleus cells using U-NET model
 ## Accuracy :-
 <p align="left">
 <img src="https://github.com/Lalit78716/Image-segmentation-Projects/blob/main/Nucleus%20Detection/Screenshots/T_V_accuracy_rms%20(1).png"/>
-</p>
-<p align="right">
 <img src="https://github.com/Lalit78716/Image-segmentation-Projects/blob/main/Nucleus%20Detection/Screenshots/T_V_loass_rms%20(1).png"/>
 </p>
 
