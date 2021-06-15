@@ -38,19 +38,18 @@ Dectecting the Nucleus cells using U-NET model
         files.upload()
         Choose the kaggle.json file that you downloaded
         3) ```! mkdir ~/.kaggle'''
-           '''! cp kaggle.json ~/.kaggle/```
+        4)   '''! cp kaggle.json ~/.kaggle/```
 
         Make directory named kaggle and copy kaggle.json file there.
-        4) ```! chmod 600 ~/.kaggle/kaggle.json```
+        5) ```! chmod 600 ~/.kaggle/kaggle.json```
 
         Change the permissions of the file.
-        5) ! kaggle datasets list
+        6) ```! kaggle datasets list```
        - That's all ! You can check if everything's okay by running this command.
 
     * Download Data
           ``` ! kaggle competitions download -c 'name-of-competition' ```
-          * Competition:-
-            https://www.kaggle.com/c/data-science-bowl-2018/data
+         https://www.kaggle.com/c/data-science-bowl-2018/data
 
          Use unzip command to unzip the data:
          For example,
