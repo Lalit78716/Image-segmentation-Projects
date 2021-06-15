@@ -33,30 +33,29 @@ Dectecting the Nucleus cells using U-NET model
     * Go to your account, Scroll to API section and Click Expire API Token to remove previous tokens
     * Click on Create New API Token - It will download kaggle.json file on your machine.
     * Go to your Google Colab project file and run the following commands:
-        1) ```! pip install -q kaggle```
-        2) ```from google.colab import files```
-        files.upload()
-        Choose the kaggle.json file that you downloaded
-        3) ```! mkdir ~/.kaggle```
-        4) ```! cp kaggle.json ~/.kaggle/```
+        * ```! pip install -q kaggle```
+        * ```from google.colab import files```
+            * files.upload()
+            * Choose the kaggle.json file that you downloaded
+        * ```! mkdir ~/.kaggle```
+        * ```! cp kaggle.json ~/.kaggle/``` 
 
-        Make directory named kaggle and copy kaggle.json file there.
-        5) ```! chmod 600 ~/.kaggle/kaggle.json```
+    * Make directory named kaggle and copy kaggle.json file there.
+        * ```! chmod 600 ~/.kaggle/kaggle.json```
 
-        Change the permissions of the file.
-        6) ```! kaggle datasets list```
-       - That's all ! You can check if everything's okay by running this command.
+    * Change the permissions of the file.
+        * ```! kaggle datasets list```
+    * That's all ! You can check if everything's okay by running this command.
 
     * Download Data
-          ``` ! kaggle competitions download -c 'name-of-competition' ```
+         *  ``` ! kaggle competitions download -c 'name-of-competition' ```
          https://www.kaggle.com/c/data-science-bowl-2018/data
 
-         Use unzip command to unzip the data:
-         For example,
-         Create a directory named train,
+         * Use unzip command to unzip the data:\
+            For example,
+         * Create a directory named train,
             ```! mkdir train```
-
-         unzip train data there,
+        * unzip train data there,
             ```! unzip train.zip -d train```
 
 
