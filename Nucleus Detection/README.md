@@ -37,8 +37,8 @@ Dectecting the Nucleus cells using U-NET model
         2) ```from google.colab import files```
         files.upload()
         Choose the kaggle.json file that you downloaded
-        3) ```! mkdir ~/.kaggle'''
-        4)   '''! cp kaggle.json ~/.kaggle/```
+        3) ```! mkdir ~/.kaggle```
+        4) ```! cp kaggle.json ~/.kaggle/```
 
         Make directory named kaggle and copy kaggle.json file there.
         5) ```! chmod 600 ~/.kaggle/kaggle.json```
@@ -53,7 +53,6 @@ Dectecting the Nucleus cells using U-NET model
 
          Use unzip command to unzip the data:
          For example,
-
          Create a directory named train,
             ```! mkdir train```
 
