@@ -13,3 +13,10 @@ after that split the data into training and testing and then i train my Random F
 <p align="center">
   <img src="https://github.com/Lalit78716/Image-segmentation-Projects/blob/main/Sandstone%20Image%20segmentation/Screenshots/Screenshot%20(506).png" width="350" title=" Result">
   </p>
+  
+### If i test it on other image it gives this result
+
+<p align="center">
+  <img src="https://github.com/Lalit78716/Image-segmentation-Projects/blob/main/Sandstone%20Image%20segmentation/Screenshots/Screenshot%20(507).png" width="350" title=" Result">
+  </p>
+  
