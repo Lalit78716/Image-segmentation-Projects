@@ -1,7 +1,7 @@
 # Sandstone Image Segmentation using Random Forest
 
 ## Overview
-The dataset we are working on are the Micro CT scansor X-ray microscope scans of a sandstone. In the image there are bright regions are heavy material, the Gray regions are Cores, the textured regions are some sort of a Clay, and the dark black region is air etc given in the images. So by this machine learning model we segment all the regions.
+The dataset we are working on are the Micro CT scans or X-ray microscope scans of a sandstone. In the image there are bright regions are heavy material, the Gray regions are Cores, the textured regions are some sort of a Clay, and the dark black region is air etc given in the images. So by this machine learning model we segment all the regions.
 
 When we have less number of data then this Random Forest technique is more accurate then other algorithm for image segmentation.
 So here in this project we choose images from dataset and doing feature engineering on that image using verious filter like Gabor, Scharr, Robert, Sobel, Canny, Gaussian, Median, Prewitt, Variance etc and extracting feature from that and insert it in new dataframe for training the model.
