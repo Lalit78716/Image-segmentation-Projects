@@ -43,6 +43,6 @@ after that split the data into training and testing and then we train our Random
   
   
 ## Reference:-  
-## Project is inspired from  [Digital Sreeni]: https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w
-## Special Thanks to @bnsreenu sir who taught us ML/DL for microscopic level
+* Project is inspired from  [Digital Sreeni]: https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w
+* Special Thanks to @bnsreenu sir who taught us ML/DL for microscopic level
   
