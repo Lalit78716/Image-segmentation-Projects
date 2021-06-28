@@ -87,7 +87,7 @@ df['Median s3']=median_img1
 #variance_img1=variance_img.reshape(-1)
 #df['Variance s3']=variance_img1
 
-labeled_img=cv2.imread('Train_masks/Sandstone_Versa0000.tif')
+labeled_img=cv2.imread('Train_label_masks/Sandstone_Versa0000.tif')
 labeled_img=cv2.cvtColor(labeled_img,cv2.COLOR_BGR2GRAY)
 labeled_img1=labeled_img.reshape(-1)
 df['Labels']=labeled_img1
